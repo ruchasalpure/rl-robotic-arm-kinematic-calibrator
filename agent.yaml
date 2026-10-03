@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "rl-robotic-arm-kinematic-calibrator"
+version: "1.0.0"
+category: "manufacturing"
+author: "Rucha Salpure"
+description: "Applies Soft Actor-Critic (SAC) reinforcement learning to calibrate 6-DOF industrial robotic arm joint backlash, gravity sag, and motor friction"
+capabilities:
+  - "kinematic-backlash-compensation"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "kinematic-backlash-compensation"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

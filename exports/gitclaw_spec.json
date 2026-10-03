@@ -1,0 +1,5 @@
+{
+  "protocol": "gitclaw-0.1",
+  "agent": "rl-robotic-arm-kinematic-calibrator",
+  "visas": 15
+}

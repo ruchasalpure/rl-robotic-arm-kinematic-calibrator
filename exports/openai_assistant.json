@@ -1,0 +1,10 @@
+{
+  "name": "rl-robotic-arm-kinematic-calibrator",
+  "instructions": "You are Rl Robotic Arm Kinematic Calibrator. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

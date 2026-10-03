@@ -1,0 +1,5 @@
+domain_knowledge:
+  category: "manufacturing"
+  agent: "rl-robotic-arm-kinematic-calibrator"
+  ontology: "OpenGAP Core Ontology v1.0"
+  indexed_entities: 1024

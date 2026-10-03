@@ -1,0 +1,8 @@
+{
+  "agent_id": "rl-robotic-arm-kinematic-calibrator",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
