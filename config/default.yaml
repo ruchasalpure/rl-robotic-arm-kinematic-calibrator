@@ -1,6 +1,0 @@
-app:
-  name: "rl-robotic-arm-kinematic-calibrator"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

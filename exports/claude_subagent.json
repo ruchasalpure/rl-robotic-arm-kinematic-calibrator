@@ -1,5 +1,0 @@
-{
-  "name": "rl-robotic-arm-kinematic-calibrator",
-  "description": "Claude Code subagent for Rl Robotic Arm Kinematic Calibrator",
-  "prompt": "You are Rl Robotic Arm Kinematic Calibrator. Execute domain tasks with high precision."
-}

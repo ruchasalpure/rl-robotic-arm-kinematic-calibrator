@@ -1,5 +1,0 @@
-{
-  "name": "rl-robotic-arm-kinematic-calibrator",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}
